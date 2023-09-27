@@ -14,9 +14,8 @@
 ... to be honest, im learning some js and html/css,arduino enjoyer and thats it! Studying at ifc (instituto federal catarinense). Always taking a nap and looking for good conversations. coffe and cat addict. A good guy and the PERFECT gentleman 
 ''To be smaller than a grain of salt to do at sea
 Is all I'll ever be''
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 <div>
 <a href="https://github.com/manuhostin">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuhostin&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=manuhostin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
