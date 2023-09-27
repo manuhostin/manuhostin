@@ -1,16 +1,18 @@
-### Hi there 👋
+### Welcome to my github! Now go away...
 
 <!--
-**manuhostin/manuhostin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on self destruction 
+- 🌱 I’m currently learning how to hide a body
+- 👯 I’m looking to collaborate on global warming
+- 🤔 I’m looking for help with my schizophrenia
+- 💬 Ask me about what I was doing on the september 11
+- 📫 How to reach me: send me a letter or follow me on twitter
+- 😄 Pronouns: I dont believe that pronous acctually exist 
+- ⚡ Fun fact: my feet toes are syamese twins
+
+... to be honest, im learning some js and html/css, and thats it! Studying at ifc (instituto federal catarinense). Always taking a nap and looking for good conversations. coffe and cat lover. A good guy and the PERFECT gentleman 
+''To be smaller than a grain of salt to do at sea
+Is all I'll ever be''
 -->
