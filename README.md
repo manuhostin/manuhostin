@@ -1,5 +1,6 @@
 ### Welcome to my github! Now go away...
 
+<h1 align="center"> About the guy behind the code</h1>
 
 
 - 🔭 I’m currently working on self destruction 
