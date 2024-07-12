@@ -19,3 +19,9 @@ Is all I'll ever be''
 <a href="https://github.com/manuhostin">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuhostin&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19B5FE&size=35&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/manuhostin)
+<p><img src="https://profile-counter.glitch.me/{manuhostin}/count.svg" /></p> 
+
+</div>
