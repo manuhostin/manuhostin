@@ -15,7 +15,7 @@
 ... to be honest, im learning some js and html/css,arduino enjoyer and thats it! Studying at ifc (instituto federal catarinense). Always taking a nap and looking for good conversations. coffe and cat addict. A good guy and the PERFECT gentleman 
 ''To be smaller than a grain of salt to do at sea
 Is all I'll ever be''
-<div>
+<div align="center">
 <a href="https://github.com/manuhostin">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuhostin&layout=compact&langs_count=7&theme=dracula"/>
 </div>
