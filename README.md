@@ -1,4 +1,6 @@
 ### Welcome to my github! Now go away...
+![Alt Text](https://media.tenor.com/bWUeVRqW9-IAAAAj/fast-cat-cat-excited.gif)
+
 
 <h1 align="center"> About the guy behind the code</h1>
 
@@ -21,5 +23,4 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19B5FE&size=35&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/manuhostin)
 <p><img src="https://profile-counter.glitch.me/{manuhostin}/count.svg" /></p> 
-![Alt Text](https://media.tenor.com/bWUeVRqW9-IAAAAj/fast-cat-cat-excited.gif)
 </div>
