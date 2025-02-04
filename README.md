@@ -14,7 +14,7 @@
 - 😄 Pronouns: I dont believe that pronous acctually exist 
 - ⚡ Fun fact: my feet toes are syamese twins!
 
-... to be honest, im learning and coding on vue js and C++, im also a huge arduino enjoyer! Studying at ifc (instituto federal catarinense). Always taking a nap and looking for good conversations. coffe and cat addict. I can speak english and esperanto and im learning russian (for now, just a begginer). 
+... to be honest, im learning and coding on js and C++ ( bc arduino) , im also a huge arduino enjoyer! Studying at ifc (instituto federal catarinense). Always taking a nap and looking for good conversations. coffe and cat addict. I can speak english and esperanto and im learning russian (for now, just a begginer). 
 <div align="center">
 <a href="https://github.com/manuhostin">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuhostin&layout=compact&langs_count=7&theme=dracula"/>
