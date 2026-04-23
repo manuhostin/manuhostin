@@ -22,5 +22,4 @@
 <div align="center">
  
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=manuhostin.manuhostin)
-<p><img src="https://profile-counter.glitch.me/{manuhostin}/count.svg" /></p> 
-</div>
+[![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=manuhostin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</div>
