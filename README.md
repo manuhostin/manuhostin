@@ -21,6 +21,6 @@
 </div>
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19B5FE&size=35&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/manuhostin)
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=manuhostin.manuhostin)
 <p><img src="https://profile-counter.glitch.me/{manuhostin}/count.svg" /></p> 
 </div>
