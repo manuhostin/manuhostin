@@ -3,10 +3,9 @@
 
 <h1 align="center">Full-Stack Developer with a healthy amount of chaos</h1>
 
-> I write code with focus, discipline, and occasional emotional damage.
 
-## What I actually do
-
+## What I do
+- 👨‍🏫 IT Instructor at Jumper Joinville
 - 🎨 Build frontend apps with **Vue.js** and **JavaScript**
 - 🐍 Develop backend systems with **Python** and **Django**
 - 🔧 Create full-stack projects from UI to database
@@ -18,22 +17,21 @@
 - **Frontend:** Vue.js, JavaScript, HTML, CSS
 - **Backend:** Python, Django
 - **Hardware:** Arduino, C++
-- **General:** Git, API integration, full-stack application development
+- **General:** Git, API integration, full-stack application development, computer networking
 
 ## Project focus
 
-- Full-stack management systems (library, garage, and similar CRUD-heavy projects)
+- Full-stack management systems (Student Games Platform, Music Review Web App, and similar CRUD-heavy projects)
 - Educational platforms and interactive learning projects
 - API-based experiments and integrations
 - Frontend architecture and component-based interfaces
 
 ## About me
 
-- 🔭 Currently working on shipping projects before starting three new ones
-- 🌱 Learning better architecture, cleaner code, and less “it works on my machine”
-- 💬 Ask me about Vue, Django, Arduino, or why debugging feels like detective work
-- 📫 Reach me on Twitter (yes, still calling it Twitter)
-- ⚡ Fun fact: I have **polydactilia** (extra toes), so yes, even my feet ship bonus features
+- 🔭 Currently working on finishing what I start (almost there! 😅)
+- 💬 Ask me about Vue, Django, Arduino, or why I ended up becoming a teacher
+- 📫 How to reach me:send me a letter or follow on Twitter (yes, still calling it Twitter)
+- ⚡ Fun fact: I have syndactyly (webbed toes), so some of my "hardware" comes pre-merged.
 
 Technical Diploma in Informatics – Instituto Federal Catarinense (IFC).  
 Coffee and cat enthusiast. I speak Portuguese (native), English, and Esperanto, and I’m learning Russian.
