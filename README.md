@@ -33,7 +33,8 @@
 - 📫 How to reach me:send me a letter or follow on Twitter (yes, still calling it Twitter)
 - ⚡ Fun fact: I have syndactyly (webbed toes), so some of my "hardware" comes pre-merged.
 
-Technical Diploma in Informatics – Instituto Federal Catarinense (IFC).  
+🎓 Technical Diploma in Informatics – Instituto Federal Catarinense (IFC).  
+🎓 B.Sc. in Science and Technology — Federal University of Santa Catarina (UFSC) | 2026–Present
 Coffee and cat enthusiast. I speak Portuguese (native), English, and Esperanto, and I’m learning Russian.
 
 <div align="center">
